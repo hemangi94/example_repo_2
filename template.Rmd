@@ -37,6 +37,6 @@ plot_df =
    y= 1 + 2* x + rnorm(n=1000)
   )
 
-ggplot(plot_df, aes(x=x))+ geom_histogram()
+
 ```
 
